@@ -1,0 +1,1 @@
+"." ou -A servem para adicionar tudo o que está dentro da pasta de git, utilizando o comando git add
